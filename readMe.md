@@ -1,9 +1,6 @@
  # Hi, I'm Rebecca 👋
 
-I’m a data analyst transitioning from administrative and community-focused roles into analytics. I work with Excel, Python, SQL, and Power BI to clean data, explore patterns, and build clear, actionable insights.
-My background in operations, teaching, and newcomer support has shaped my approach to data: structured, practical, and focused on clarity.
-
-My background in administration, teaching, and newcomer support has shaped me into someone who values clarity, structure, and people-focused problem solving. Now I’m applying those strengths to data.
+I bring a background in administration, teaching, and newcomer support, which has shaped me into someone who values clarity, structure, and people‑focused problem solving. I’m now applying those strengths to data, supported by my multilingual ability in French, Swahili, and Kirundi to communicate insights clearly across diverse communities
 
 ---
 
@@ -11,8 +8,8 @@ My background in administration, teaching, and newcomer support has shaped me in
 I work across the analytical workflow:
 - **Excel** — cleaning, organizing, and analyzing data  
 - **Python** — (pandas, matplotlib) for EDA  and visualizations
-- **SQL** — for querying and  analysis 
-- **Power BI** — for dashboards and  interactive reportingeginner dashboards and reports  
+- **SQL** — querying and  analysis 
+- **Power BI** — dashboards and  interactive reporting 
 - **Jupyter Notebook** — for documenting analysis step-by-step  
 
 I value clean data, reproducible work, and clear communication.
@@ -20,7 +17,7 @@ I value clean data, reproducible work, and clear communication.
 ---
 
 ## 🎯 Current Focus
-Developing analytical projects that strengthen my technical foundation and demonstrate practical problem‑solving.  
+I am developing analytical projects that strengthen my technical foundation and demonstrate practical problem‑solving.  
 My primary project is the **CNA Data Analytics Capstone**, which includes data cleaning, exploratory analysis, visualizations, and a final presentation.
 
 ---

@@ -1,18 +1,21 @@
  # Hi, I'm Rebecca 👋
 
-I bring a background in administration, teaching, and newcomer support, which has shaped me into someone who values clarity, structure, and people‑focused problem solving. I’m now applying those strengths to data, supported by my multilingual ability in French, Swahili, and Kirundi to communicate insights clearly across diverse communities
-
+I’m a data‑minded problem solver with a background in administration, teaching, and newcomer support, which has shaped the way I work: with clarity, structure, and a strong focus on people.
+I bring multilingual communication in French, Swahili, and Kirundi, helping me share insights across diverse communities.
 ---
 
 ## 🌱 What I Do
-I work across the analytical workflow:
-- **Excel** — cleaning, organizing, and analyzing data  
-- **Python** — (pandas, matplotlib) for EDA  and visualizations
-- **SQL** — querying and  analysis 
-- **Power BI** — dashboards and  interactive reporting 
-- **Jupyter Notebook** — for documenting analysis step-by-step  
+I work across the analytical workflow with a calm, organized approach:
 
-I value clean data, reproducible work, and clear communication.
+- **Excel** — cleaning, organizing, and analyzing data
+
+- **Python** — pandas + matplotlib for exploration and visualizations
+
+- **SQL** — querying and basic analysis
+
+- **Power BI** — dashboards and interactive reporting
+
+- **Jupyter Notebook** — step‑by‑step documentation for reproducible work
 
 ---
 
@@ -31,9 +34,9 @@ More projects will be added as I continue learning and practicing.
 ---
 
 ## 🧰 Tech Stack
-**Data:** Excel · Python (pandas, matplotlib) · Power BI  
-**Tools:** Jupyter Notebook · GitHub  
-**Skills:** Data cleaning · Reporting · Visualization · Basic SQL
+- **Data:** Excel · Python (pandas, matplotlib,seaborn) · Power BI  
+- **Tools:** Jupyter Notebook · GitHub  
+- **Skills:** Data cleaning · Reporting · Visualization · Basic SQL
 
 ---
 
